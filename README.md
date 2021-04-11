@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Verzel 🚀</h1>
 
-![Badge](/github/preview.png)
+![Badge](/github/preview2.png)
 
 ## 💻 Proposta do projeto
 
